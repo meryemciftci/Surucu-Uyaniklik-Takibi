@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "664728281581",
+    "project_id": "uyaniklik-takibi",
+    "storage_bucket": "uyaniklik-takibi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664728281581:android:086cbeffdccba45b0e07e4",
+        "android_client_info": {
+          "package_name": "com.example.uyaniklik_takibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664728281581-gf8n14i911b4cgca3mbu0fcad41qg5uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uyaniklik_takibi",
+            "certificate_hash": "c1ffbc4d65147a688f73767bb01a2e3219c595e8"
+          }
+        },
+        {
+          "client_id": "664728281581-afpdkjbtebb2c5s5v32kd9u1ok94d41c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EgVrqikUK_8zdX6Ca3uf2EHbjuvVfcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664728281581-afpdkjbtebb2c5s5v32kd9u1ok94d41c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664728281581-mp8ssb9ncnr9elk3bgvueb8bj8a29bsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uyaniklikTakibi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
