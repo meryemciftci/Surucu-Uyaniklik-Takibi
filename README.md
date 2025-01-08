@@ -13,7 +13,7 @@ Bu mobil uygulama, sürücülerin güvenliğini artırmak amacıyla yapay zeka d
 
 | Ana Ekran          | Takip Ekranı       | Uyarı Ekranı        |
 |---------------------|--------------------|---------------------|
-|<img src="https://github.com/user-attachments/assets/652b20ae-89d5-4b26-aaf5-7d1a7c645990" alt="Ana Ekran" width="300">
+|<img src="https://github.com/user-attachments/assets/652b20ae-89d5-4b26-aaf5-7d1a7c645990" alt="Ana Ekran" width="100">
 ![anaekran2](https://github.com/user-attachments/assets/8a113a2d-7bd2-4b43-b293-bae4e76679ad)
 ![anaekran3](https://github.com/user-attachments/assets/68f48a37-d77d-49c2-8cea-ec6c15f1a4f1)
 |
