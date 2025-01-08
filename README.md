@@ -23,8 +23,26 @@ Sürücü Gözü, sürücülerin güvenliğini artırmak amacıyla yapay zeka de
 - Flutter SDK [Kurulum Talimatları](https://flutter.dev/docs/get-started/install)
 - Android Studio veya Visual Studio Code
 - Gerekli Flutter bağımlılıkları
+  
+## 📊 Teknolojiler
+- **Flutter:** Mobil uygulama geliştirme
+- **TensorFlow Lite:** Göz hareketi izleme için makine öğrenimi modeli
+- **Google Maps API:** Gerçek zamanlı konum takibi
+- **SMS Gateway API:** SMS gönderimi için
+- **Flutter Location:** Konum bilgilerini almak için kullanılan Flutter paketi
+- **Flutter SMS:** SMS gönderimi için kullanılan Flutter paketi
 
-### Kurulum Adımları
-1. Bu projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
+---
+
+## 🛠 Kullanım
+
+1. Uygulamayı başlatın ve gerekli izinleri verin (kamera, konum, vb.).
+2. Hareket halinde göz kırpma takibini etkinleştirin.
+3. Hız ve konum bilgilerinizin takip edilmesine izin verin.
+4. Acil durumlarda otomatik olarak kayıtlı numaraya mesaj gönderilir.
+
+---
+
+
+
+
