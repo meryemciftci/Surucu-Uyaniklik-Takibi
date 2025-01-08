@@ -1,4 +1,4 @@
-#Sürücü Gözü : AI Destekli Sürücü Güvenlik Takip Sistemi 🚗
+# **Sürücü Gözü**: AI Destekli Sürücü Güvenlik Takip Sistemi 🚗
 
 Sürücü Gözü, sürücülerin güvenliğini artırmak amacıyla yapay zeka destekli bir sürücü takibi sağlar. Uygulama, sürücünün hareket halinde göz kırpma durumunu izler, hızını ölçer ve uykuya dalma gibi riskli durumlarda uyarılar vererek olası kazaları önlemeye çalışır.
 
